@@ -8,8 +8,8 @@ Oh no! Person McPersonFace has gotten trapped inside a bubble, and if it pops, h
 In-game instructions can be located from the main menu.
 
 Tools used:
-[Unity3D](unity3d.com) |
-[Piskel](piskelapp.com) |
-[GIMP](gimp.org) |
-[Music Studio 2](xewton.com) |
-[Audacity](audacityteam.org)
+[Unity3D](http://www.unity3d.com) |
+[Piskel](http://www.piskelapp.com) |
+[GIMP](http://www.gimp.org) |
+[Music Studio 2](http://www.xewton.com) |
+[Audacity](http://www.audacityteam.org)
